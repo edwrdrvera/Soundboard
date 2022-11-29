@@ -85,13 +85,7 @@ const createButtons = async () => {
     }
 };
 createButtons();
-
-
 }
-
-const createSound = () => {
-
-} 
 
 const setup = () => {
     if(document.readyState !== "loading"){
